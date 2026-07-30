@@ -54,11 +54,18 @@ Developer me = Developer.builder()
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/sumedhyedke50"><img src="https://skillicons.dev/icons?i=github" height="52"/> <br>
-<a href="https://linkedin.com/in/sumedh-yedke-66a057369"><img src="https://skillicons.dev/icons?i=linkedin" height="52"/>  <br>
-<a href="mailto:sonuyedke50@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="52"/>  <br>
-<a href="https://sumedhyedke50.lovable.app"><img src="https://img.icons8.com/color/96/domain.png" height="52"/>  <br>
+<a href="https://sumedhyedke50.lovable.app"><img src="https://img.icons8.com/color/96/domain.png" height="52"/> </a>
 </p>
+<p align="center">
+<a href="https://linkedin.com/in/sumedh-yedke-66a057369"><img src="https://skillicons.dev/icons?i=linkedin" height="52"/> </a>
+</p>
+<p align="center">
+<a href="https://github.com/sumedhyedke50"><img src="https://skillicons.dev/icons?i=github" height="52"/></a>
+</p>
+<p align="center">
+<a href="mailto:sonuyedke50@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="52"/></a>
+</p>
+
 
 ---
 
