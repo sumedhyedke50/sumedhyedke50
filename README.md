@@ -150,15 +150,7 @@ Developer me = Developer.builder()
 ## 🛠 Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
+<img src="https://skillicons.dev/icons?i=git" />  <img src="https://skillicons.dev/icons?i=github" />  <img src="https://skillicons.dev/icons?i=vscode" />     <img src="https://skillicons.dev/icons?i=linux" />
 </p>
 
 ---
@@ -168,9 +160,7 @@ Developer me = Developer.builder()
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sumedhyedke50&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
@@ -178,9 +168,7 @@ Developer me = Developer.builder()
 # 📈 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumedhyedke50&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -191,7 +179,6 @@ Developer me = Developer.builder()
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,mysql,aws,docker,git"/>
-
 </p>
 
 ---
