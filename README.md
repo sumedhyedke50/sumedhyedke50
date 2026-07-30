@@ -141,7 +141,7 @@ Developer me = Developer.builder()
 
 <img src="https://skillicons.dev/icons?i=maven" />
 
-<img src="https://skillicons.dev/icons?i=gradle" />
+
 
 </p>
 
