@@ -12,9 +12,9 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sumedhyedke50&style=for-the-badge&color=blueviolet"/>
-<img src="https://img.shields.io/github/followers/sumedhyedke50?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/sumedhyedke50?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sumedhyedke50&style=for-the-badge&color=blueviolet"/> <br>
+<img src="https://img.shields.io/github/followers/sumedhyedke50?style=for-the-badge&logo=github"/> <br>
+<img src="https://img.shields.io/github/stars/sumedhyedke50?style=for-the-badge"/> <br>
 </p>
 
 ---
